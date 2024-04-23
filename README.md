@@ -1,6 +1,7 @@
 # Log Monitoring and Analysis Script
 
-This script monitors a specified log file in real-time and provides a platform for implementing custom log analysis logic. It is designed to be run in a Unix-like environment, particularly bash.
+This Bash script monitors a specified log file in real-time, analyzes log entries for error messages, and generates a summary report of the top 5 error messages.
+
 
 ## Prerequisites
 
