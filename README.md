@@ -46,7 +46,7 @@ To test the script, you can simulate log activity by manually adding entries to 
 
 Ensure that the script is executed with appropriate permissions to access the log file and that any log analysis code added is safe and does not inadvertently affect system stability.
 
-**Feel free to modify and expand upon this README.md to suit your specific needs!**
+
 
 
 
