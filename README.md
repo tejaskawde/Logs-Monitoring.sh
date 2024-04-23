@@ -13,7 +13,7 @@ This Bash script monitors a specified log file in real-time, analyzes log entrie
 ## Usage
 
 1. **Clone the Repository:**
-
+    - git clone https://github.com/tejaskawde/Logs-Monitoring.sh.git
 2. **Navigate to the Directory:**
     - cd log-monitor.sh
 3. **Set Execution Permissions (if necessary):**
