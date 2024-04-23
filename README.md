@@ -25,7 +25,10 @@ This Bash script monitors a specified log file in real-time, analyzes log entrie
 
 
 5. **Monitor Log Activity:**
-The script will start monitoring the specified log file (`/var/log/syslog` by default) in real-time. Press `Ctrl+C` to stop monitoring and exit.
+    - The script will start monitoring the specified log file (`/var/log/syslog` by default) in real-time. Press `Ctrl+C` to stop monitoring and exit.
+
+6. **View Summary Report:**
+    - While the script is running, it will periodically generate a summary report of the top 5 error messages based on their occurrence counts.
 
 ## Customization
 
