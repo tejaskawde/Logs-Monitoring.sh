@@ -5,7 +5,7 @@ This Bash script monitors a specified log file in real-time, analyzes log entrie
 
 ## Prerequisites
 
-- Unix-like operating system (Linux, macOS)
+- Linux-like operating system (Unix, macOS)
 - Bash shell
 - Permission to access the log file (usually requires sudo or appropriate permissions)
 - Basic understanding of shell scripting
